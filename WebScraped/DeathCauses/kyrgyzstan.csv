@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,37.61
+1,Stroke,14.71
+2,Liver Disease,5.91
+3,Lung Disease,4.04
+4,Road Traffic Accidents,3.03
+5,Influenza and Pneumonia,2.80
+6,Low Birth Weight,2.43
+7,Stomach Cancer,2.11
+8,Congenital Anomalies,1.67
+9,Kidney Disease,1.65
+10,Lung Cancers,1.49
+11,Suicide,1.43
+12,Birth Trauma,1.28
+13,Diabetes Mellitus,1.24
+14,Tuberculosis,1.24
+15,Inflammatory/Heart,1.21
+16,Other Injuries,1.20
+17,Violence,1.01
+18,Hypertension,0.96
+19,Alcohol,0.96
+20,Liver Cancer,0.94
+21,Breast Cancer,0.78
+22,Colon-Rectum Cancers,0.74
+23,Cervical Cancer,0.73
+24,Drownings,0.63
+25,Drug Use,0.58
+26,Epilepsy,0.56
+27,Pancreas Cancer,0.51
+28,Rheumatic Heart Disease,0.50
+29,Oesophagus Cancer,0.44
+30,HIV/AIDS,0.43
+31,Leukemia,0.40
+32,Oral Cancer,0.38
+33,Diarrhoeal diseases,0.38
+34,Ovary Cancer,0.30
+35,Falls,0.30
+36,Maternal Conditions,0.29
+37,Peptic Ulcer Disease,0.26
+38,Encephalitis,0.25
+39,Prostate Cancer,0.23
+40,Other Neoplasms,0.23
+41,Fires,0.21
+42,Lymphomas,0.20
+43,Rheumatoid Arthritis,0.19
+44,Skin Cancers,0.18
+45,Bladder Cancer,0.17
+46,Uterin Cancer,0.17
+47,Asthma,0.16
+48,Endocrine Disorders,0.16
+49,Alzheimers & Dementia,0.15

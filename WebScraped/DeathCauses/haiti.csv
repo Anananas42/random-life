@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,15.24
+1,Stroke,10.90
+2,Influenza and Pneumonia,8.39
+3,HIV/AIDS,5.54
+4,Diabetes Mellitus,4.81
+5,Diarrhoeal diseases,4.41
+6,Violence,3.66
+7,Low Birth Weight,2.94
+8,Kidney Disease,2.77
+9,Birth Trauma,2.32
+10,Congenital Anomalies,2.21
+11,Lung Disease,2.21
+12,Hypertension,2.09
+13,Road Traffic Accidents,2.06
+14,Drownings,1.97
+15,Liver Disease,1.85
+16,Other Injuries,1.74
+17,Malnutrition,1.56
+18,Suicide,1.52
+19,Alzheimers & Dementia,1.32
+20,Prostate Cancer,1.32
+21,Asthma,1.29
+22,Maternal Conditions,1.25
+23,Endocrine Disorders,1.23
+24,Tuberculosis,1.13
+25,Rheumatic Heart Disease,1.04
+26,Peptic Ulcer Disease,1.02
+27,Meningitis,1.00
+28,Inflammatory/Heart,0.92
+29,Syphilis,0.83
+30,Cervical Cancer,0.75
+31,Fires,0.75
+32,Stomach Cancer,0.66
+33,Lung Cancers,0.61
+34,Breast Cancer,0.60
+35,Liver Cancer,0.59
+36,Epilepsy,0.53
+37,Colon-Rectum Cancers,0.50
+38,Falls,0.50
+39,Alcohol,0.37
+40,Poisonings,0.34
+41,Malaria,0.27
+42,Appendicitis,0.26
+43,Pancreas Cancer,0.23
+44,Leukemia,0.21
+45,Encephalitis,0.20
+46,Lymphomas,0.20
+47,Other Neoplasms,0.19
+48,Tetanus,0.17
+49,Dengue,0.17

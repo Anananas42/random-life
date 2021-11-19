@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Influenza and Pneumonia,10.74
+1,Coronary Heart Disease,10.53
+2,Diarrhoeal diseases,6.88
+3,Stroke,6.16
+4,Road Traffic Accidents,5.47
+5,Malaria,5.03
+6,Tuberculosis,4.61
+7,Low Birth Weight,4.34
+8,Birth Trauma,3.85
+9,Congenital Anomalies,3.12
+10,Meningitis,2.81
+11,Diabetes Mellitus,2.60
+12,Liver Disease,2.33
+13,HIV/AIDS,2.26
+14,Lung Disease,2.12
+15,Other Injuries,1.95
+16,Malnutrition,1.87
+17,Kidney Disease,1.86
+18,Maternal Conditions,1.71
+19,Alzheimers & Dementia,1.48
+20,Violence,1.44
+21,Endocrine Disorders,1.25
+22,Falls,1.20
+23,Cervical Cancer,1.15
+24,Suicide,1.12
+25,Liver Cancer,0.98
+26,Drownings,0.91
+27,Asthma,0.84
+28,Hypertension,0.61
+29,Breast Cancer,0.60
+30,Fires,0.58
+31,Prostate Cancer,0.53
+32,Peptic Ulcer Disease,0.50
+33,Stomach Cancer,0.49
+34,Poisonings,0.42
+35,Epilepsy,0.40
+36,Lymphomas,0.35
+37,Inflammatory/Heart,0.35
+38,Skin Disease,0.33
+39,Schistosomiasis,0.32
+40,Colon-Rectum Cancers,0.32
+41,Hepatitis B,0.32
+42,Rheumatic Heart Disease,0.31
+43,Syphilis,0.27
+44,Bladder Cancer,0.24
+45,Other Neoplasms,0.23
+46,Measles,0.21
+47,Appendicitis,0.21
+48,Ovary Cancer,0.19
+49,Drug Use,0.17

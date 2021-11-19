@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,13.59
+1,Stroke,10.59
+2,Diabetes Mellitus,5.76
+3,Lung Disease,5.07
+4,Influenza and Pneumonia,4.91
+5,Stomach Cancer,4.31
+6,Alzheimers & Dementia,4.01
+7,Lung Cancers,3.80
+8,Hypertension,3.77
+9,Colon-Rectum Cancers,3.19
+10,Liver Disease,3.18
+11,Kidney Disease,3.02
+12,Prostate Cancer,2.71
+13,Road Traffic Accidents,2.24
+14,Suicide,2.11
+15,Breast Cancer,1.91
+16,Pancreas Cancer,1.64
+17,Lymphomas,1.55
+18,Liver Cancer,1.49
+19,Other Neoplasms,1.39
+20,Other Injuries,1.38
+21,Endocrine Disorders,1.23
+22,Congenital Anomalies,1.17
+23,Falls,1.08
+24,Leukemia,0.98
+25,Inflammatory/Heart,0.93
+26,Cervical Cancer,0.88
+27,Violence,0.88
+28,Oesophagus Cancer,0.85
+29,Parkinson's Disease,0.83
+30,Bladder Cancer,0.67
+31,HIV/AIDS,0.66
+32,Low Birth Weight,0.59
+33,Tuberculosis,0.56
+34,Malnutrition,0.55
+35,Skin Cancers,0.55
+36,Diarrhoeal diseases,0.53
+37,Ovary Cancer,0.51
+38,Alcohol,0.51
+39,Skin Disease,0.46
+40,Drownings,0.39
+41,Asthma,0.37
+42,Fires,0.37
+43,Epilepsy,0.36
+44,Oral Cancer,0.33
+45,Uterin Cancer,0.30
+46,Peptic Ulcer Disease,0.23
+47,Encephalitis,0.21
+48,Rheumatoid Arthritis,0.19
+49,Anemia,0.15

@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,20.53
+1,Stroke,9.73
+2,Lung Disease,8.32
+3,Diarrhoeal diseases,5.91
+4,Influenza and Pneumonia,5.83
+5,Diabetes Mellitus,3.94
+6,Tuberculosis,3.90
+7,Road Traffic Accidents,3.07
+8,Kidney Disease,2.74
+9,Asthma,2.66
+10,Liver Disease,2.60
+11,Low Birth Weight,2.55
+12,Alzheimers & Dementia,2.27
+13,Falls,1.93
+14,Birth Trauma,1.76
+15,Lung Cancers,1.65
+16,Suicide,1.53
+17,Other Injuries,1.28
+18,Hypertension,1.24
+19,Congenital Anomalies,1.23
+20,HIV/AIDS,1.03
+21,Cervical Cancer,0.94
+22,Rheumatic Heart Disease,0.90
+23,Oral Cancer,0.83
+24,Peptic Ulcer Disease,0.78
+25,Drownings,0.75
+26,Stomach Cancer,0.71
+27,Maternal Conditions,0.71
+28,Breast Cancer,0.64
+29,Violence,0.58
+30,Lymphomas,0.56
+31,Meningitis,0.54
+32,Leukemia,0.54
+33,Ovary Cancer,0.41
+34,Encephalitis,0.41
+35,Epilepsy,0.39
+36,Colon-Rectum Cancers,0.39
+37,Endocrine Disorders,0.38
+38,Oesophagus Cancer,0.33
+39,Hepatitis B,0.32
+40,Syphilis,0.28
+41,Fires,0.27
+42,Parkinson's Disease,0.23
+43,Skin Disease,0.20
+44,Inflammatory/Heart,0.19
+45,Malnutrition,0.19
+46,Bladder Cancer,0.19
+47,Appendicitis,0.16
+48,Tetanus,0.15
+49,Pancreas Cancer,0.14

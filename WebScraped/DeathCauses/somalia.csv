@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Influenza and Pneumonia,15.66
+1,Diarrhoeal diseases,11.03
+2,Tuberculosis,6.58
+3,Birth Trauma,6.43
+4,Coronary Heart Disease,4.56
+5,Low Birth Weight,4.53
+6,War,4.28
+7,Measles,3.98
+8,Malnutrition,3.70
+9,Meningitis,3.68
+10,Stroke,3.45
+11,Maternal Conditions,2.84
+12,Road Traffic Accidents,2.68
+13,Congenital Anomalies,2.34
+14,Tetanus,2.10
+15,Other Injuries,1.63
+16,Malaria,1.39
+17,Liver Disease,1.38
+18,Diabetes Mellitus,1.23
+19,Syphilis,1.23
+20,HIV/AIDS,1.11
+21,Drownings,0.97
+22,Lung Disease,0.84
+23,Fires,0.83
+24,Hypertension,0.69
+25,Falls,0.69
+26,Endocrine Disorders,0.69
+27,Asthma,0.60
+28,Kidney Disease,0.55
+29,Violence,0.52
+30,Peptic Ulcer Disease,0.45
+31,Alzheimers & Dementia,0.45
+32,Suicide,0.44
+33,Breast Cancer,0.44
+34,Poisonings,0.43
+35,Pertussis,0.39
+36,Cervical Cancer,0.37
+37,Epilepsy,0.35
+38,Leishmaniasis,0.33
+39,Oesophagus Cancer,0.32
+40,Inflammatory/Heart,0.27
+41,Other Neoplasms,0.25
+42,Hepatitis B,0.25
+43,Lymphomas,0.24
+44,Colon-Rectum Cancers,0.23
+45,Skin Disease,0.22
+46,Rheumatic Heart Disease,0.21
+47,Prostate Cancer,0.21
+48,Leukemia,0.20
+49,Stomach Cancer,0.19

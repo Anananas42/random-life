@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,34.57
+1,Stroke,17.80
+2,Lung Cancers,3.60
+3,Inflammatory/Heart,3.27
+4,Alzheimers & Dementia,2.96
+5,Colon-Rectum Cancers,2.83
+6,Suicide,2.58
+7,Liver Disease,2.37
+8,Stomach Cancer,2.36
+9,HIV/AIDS,2.09
+10,Influenza and Pneumonia,1.85
+11,Lung Disease,1.72
+12,Breast Cancer,1.68
+13,Alcohol,1.53
+14,Other Injuries,1.48
+15,Road Traffic Accidents,1.44
+16,Hypertension,1.16
+17,Pancreas Cancer,1.09
+18,Drug Use,1.06
+19,Violence,0.94
+20,Prostate Cancer,0.86
+21,Oral Cancer,0.69
+22,Tuberculosis,0.68
+23,Liver Cancer,0.68
+24,Falls,0.67
+25,Diabetes Mellitus,0.57
+26,Kidney Disease,0.52
+27,Ovary Cancer,0.51
+28,Oesophagus Cancer,0.51
+29,Lymphomas,0.50
+30,Drownings,0.49
+31,Bladder Cancer,0.48
+32,Leukemia,0.48
+33,Cervical Cancer,0.46
+34,Parkinson's Disease,0.45
+35,Fires,0.41
+36,Peptic Ulcer Disease,0.40
+37,Skin Cancers,0.37
+38,Uterin Cancer,0.35
+39,Congenital Anomalies,0.30
+40,Rheumatic Heart Disease,0.20
+41,Low Birth Weight,0.17
+42,Poisonings,0.14
+43,Asthma,0.12
+44,Endocrine Disorders,0.09
+45,Skin Disease,0.09
+46,Encephalitis,0.07
+47,Meningitis,0.07
+48,Birth Trauma,0.05
+49,Epilepsy,0.04

@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Stroke,13.62
+1,Diabetes Mellitus,12.86
+2,Coronary Heart Disease,11.82
+3,Violence,6.19
+4,HIV/AIDS,5.21
+5,Prostate Cancer,5.07
+6,Alzheimers & Dementia,4.38
+7,Kidney Disease,3.77
+8,Influenza and Pneumonia,3.02
+9,Lung Disease,2.76
+10,Hypertension,2.76
+11,Lung Cancers,2.71
+12,Colon-Rectum Cancers,2.08
+13,Breast Cancer,1.98
+14,Low Birth Weight,1.53
+15,Stomach Cancer,1.46
+16,Lymphomas,1.42
+17,Road Traffic Accidents,1.38
+18,Cervical Cancer,1.26
+19,Liver Disease,0.99
+20,Inflammatory/Heart,0.99
+21,Skin Disease,0.98
+22,Congenital Anomalies,0.91
+23,Endocrine Disorders,0.90
+24,Other Neoplasms,0.80
+25,Leukemia,0.74
+26,Other Injuries,0.62
+27,Pancreas Cancer,0.60
+28,Liver Cancer,0.50
+29,Peptic Ulcer Disease,0.50
+30,Asthma,0.45
+31,Birth Trauma,0.43
+32,Uterin Cancer,0.43
+33,Malnutrition,0.43
+34,Oesophagus Cancer,0.40
+35,Parkinson's Disease,0.37
+36,Ovary Cancer,0.36
+37,Suicide,0.34
+38,Bladder Cancer,0.34
+39,Falls,0.33
+40,Rheumatic Heart Disease,0.30
+41,Oral Cancer,0.28
+42,Diarrhoeal diseases,0.24
+43,Epilepsy,0.23
+44,Maternal Conditions,0.23
+45,Fires,0.19
+46,Meningitis,0.16
+47,Drownings,0.13
+48,Skin Cancers,0.12
+49,Encephalitis,0.09

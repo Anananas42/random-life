@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Influenza and Pneumonia,11.20
+1,Malaria,9.33
+2,Diarrhoeal diseases,9.10
+3,Tuberculosis,7.79
+4,Low Birth Weight,5.43
+5,Malnutrition,4.92
+6,Birth Trauma,4.86
+7,Stroke,4.48
+8,Coronary Heart Disease,4.27
+9,Road Traffic Accidents,4.17
+10,HIV/AIDS,2.79
+11,Congenital Anomalies,2.60
+12,Meningitis,2.47
+13,Maternal Conditions,2.34
+14,Violence,1.57
+15,Drownings,1.49
+16,Liver Disease,1.46
+17,Syphilis,1.40
+18,Other Injuries,1.30
+19,Lung Disease,1.29
+20,Diabetes Mellitus,1.20
+21,Alzheimers & Dementia,1.00
+22,Hypertension,0.88
+23,Endocrine Disorders,0.83
+24,Cervical Cancer,0.77
+25,Asthma,0.69
+26,Suicide,0.67
+27,Prostate Cancer,0.61
+28,Liver Cancer,0.61
+29,Falls,0.57
+30,Peptic Ulcer Disease,0.57
+31,Fires,0.57
+32,Kidney Disease,0.50
+33,Breast Cancer,0.44
+34,Poisonings,0.38
+35,Inflammatory/Heart,0.34
+36,Epilepsy,0.33
+37,Skin Disease,0.32
+38,Rheumatic Heart Disease,0.30
+39,Trypanosomiasis,0.30
+40,Stomach Cancer,0.29
+41,Oesophagus Cancer,0.28
+42,Colon-Rectum Cancers,0.26
+43,Lymphomas,0.26
+44,Oral Cancer,0.22
+45,Hepatitis B,0.22
+46,Appendicitis,0.21
+47,Other Neoplasms,0.19
+48,Tetanus,0.18
+49,Schistosomiasis,0.18

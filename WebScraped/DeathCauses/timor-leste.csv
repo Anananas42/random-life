@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Tuberculosis,18.84
+1,Coronary Heart Disease,10.16
+2,Influenza and Pneumonia,9.79
+3,Stroke,7.35
+4,Birth Trauma,4.82
+5,Road Traffic Accidents,4.29
+6,Diarrhoeal diseases,4.21
+7,Low Birth Weight,3.92
+8,Congenital Anomalies,2.87
+9,Lung Disease,2.35
+10,Lung Cancers,2.30
+11,Alzheimers & Dementia,2.13
+12,Asthma,1.66
+13,Diabetes Mellitus,1.63
+14,Liver Disease,1.36
+15,Other Injuries,1.30
+16,Kidney Disease,1.30
+17,Drownings,1.21
+18,Hypertension,1.14
+19,Maternal Conditions,1.13
+20,Violence,1.02
+21,Oral Cancer,0.99
+22,Colon-Rectum Cancers,0.94
+23,Suicide,0.91
+24,Breast Cancer,0.89
+25,Lymphomas,0.85
+26,Meningitis,0.75
+27,Falls,0.66
+28,Peptic Ulcer Disease,0.66
+29,Leukemia,0.64
+30,Liver Cancer,0.63
+31,Prostate Cancer,0.60
+32,Malnutrition,0.58
+33,Inflammatory/Heart,0.58
+34,Syphilis,0.49
+35,Rheumatic Heart Disease,0.42
+36,Cervical Cancer,0.41
+37,Endocrine Disorders,0.38
+38,Fires,0.38
+39,Pancreas Cancer,0.38
+40,Ovary Cancer,0.25
+41,Stomach Cancer,0.25
+42,Encephalitis,0.23
+43,Epilepsy,0.22
+44,Bladder Cancer,0.20
+45,Oesophagus Cancer,0.20
+46,Uterin Cancer,0.19
+47,Parkinson's Disease,0.17
+48,Skin Cancers,0.17
+49,Tetanus,0.16

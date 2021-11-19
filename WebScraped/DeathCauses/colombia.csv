@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,20.76
+1,Violence,8.74
+2,Stroke,7.91
+3,Influenza and Pneumonia,4.48
+4,Lung Disease,4.47
+5,Road Traffic Accidents,4.43
+6,Diabetes Mellitus,4.05
+7,Stomach Cancer,3.32
+8,Kidney Disease,2.72
+9,Lung Cancers,2.70
+10,Hypertension,2.41
+11,Colon-Rectum Cancers,2.11
+12,Breast Cancer,1.88
+13,Other Neoplasms,1.83
+14,HIV/AIDS,1.72
+15,Prostate Cancer,1.60
+16,Congenital Anomalies,1.47
+17,Suicide,1.45
+18,Liver Disease,1.41
+19,Lymphomas,1.35
+20,Cervical Cancer,1.29
+21,Leukemia,1.27
+22,Other Injuries,1.10
+23,Liver Cancer,1.09
+24,Low Birth Weight,1.01
+25,Pancreas Cancer,0.97
+26,Falls,0.90
+27,Malnutrition,0.87
+28,Endocrine Disorders,0.84
+29,Inflammatory/Heart,0.72
+30,Alzheimers & Dementia,0.67
+31,Tuberculosis,0.64
+32,Drownings,0.59
+33,Ovary Cancer,0.58
+34,Skin Disease,0.58
+35,Asthma,0.51
+36,Skin Cancers,0.48
+37,Oesophagus Cancer,0.43
+38,Epilepsy,0.41
+39,Oral Cancer,0.40
+40,Encephalitis,0.36
+41,Peptic Ulcer Disease,0.35
+42,Diarrhoeal diseases,0.34
+43,Birth Trauma,0.30
+44,Bladder Cancer,0.29
+45,Maternal Conditions,0.27
+46,Drug Use,0.19
+47,Meningitis,0.18
+48,Uterin Cancer,0.15
+49,Prostatic Hypertrophy,0.14

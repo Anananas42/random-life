@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,19.98
+1,Violence,9.40
+2,Diabetes Mellitus,9.04
+3,Stroke,8.35
+4,Road Traffic Accidents,7.73
+5,Influenza and Pneumonia,4.08
+6,Lung Disease,3.41
+7,Lung Cancers,2.57
+8,Hypertension,2.41
+9,Prostate Cancer,1.94
+10,Kidney Disease,1.93
+11,Liver Disease,1.79
+12,Other Neoplasms,1.70
+13,Breast Cancer,1.62
+14,HIV/AIDS,1.59
+15,Low Birth Weight,1.53
+16,Stomach Cancer,1.53
+17,Congenital Anomalies,1.51
+18,Other Injuries,1.51
+19,Cervical Cancer,1.34
+20,Colon-Rectum Cancers,1.33
+21,Lymphomas,0.84
+22,Falls,0.74
+23,Diarrhoeal diseases,0.71
+24,Pancreas Cancer,0.71
+25,Suicide,0.71
+26,Leukemia,0.70
+27,Liver Cancer,0.69
+28,Chagas disease,0.56
+29,Birth Trauma,0.55
+30,Endocrine Disorders,0.55
+31,Drownings,0.52
+32,Tuberculosis,0.51
+33,Inflammatory/Heart,0.44
+34,Alzheimers & Dementia,0.42
+35,Maternal Conditions,0.37
+36,Oral Cancer,0.36
+37,Ovary Cancer,0.36
+38,Epilepsy,0.36
+39,Skin Cancers,0.35
+40,Malnutrition,0.34
+41,Peptic Ulcer Disease,0.30
+42,Oesophagus Cancer,0.26
+43,Asthma,0.25
+44,Bladder Cancer,0.24
+45,Encephalitis,0.24
+46,Parkinson's Disease,0.18
+47,Meningitis,0.17
+48,Fires,0.14
+49,Uterin Cancer,0.14

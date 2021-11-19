@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Influenza and Pneumonia,15.17
+1,Diarrhoeal diseases,10.86
+2,Malaria,10.15
+3,Coronary Heart Disease,5.84
+4,Low Birth Weight,5.33
+5,Stroke,4.45
+6,Birth Trauma,4.28
+7,Meningitis,4.25
+8,Malnutrition,3.95
+9,Road Traffic Accidents,3.66
+10,Maternal Conditions,3.20
+11,Congenital Anomalies,2.50
+12,Tuberculosis,2.33
+13,Other Injuries,2.10
+14,HIV/AIDS,1.91
+15,Liver Disease,1.49
+16,Endocrine Disorders,1.48
+17,Diabetes Mellitus,1.44
+18,Drownings,1.27
+19,Violence,1.21
+20,Lung Disease,1.20
+21,Kidney Disease,1.15
+22,Falls,0.81
+23,Asthma,0.71
+24,Fires,0.67
+25,Alzheimers & Dementia,0.63
+26,Suicide,0.54
+27,Peptic Ulcer Disease,0.51
+28,Poisonings,0.49
+29,Rheumatic Heart Disease,0.45
+30,Breast Cancer,0.44
+31,Hypertension,0.43
+32,Measles,0.40
+33,Epilepsy,0.35
+34,Liver Cancer,0.32
+35,Inflammatory/Heart,0.28
+36,Tetanus,0.27
+37,Hepatitis B,0.27
+38,Schistosomiasis,0.25
+39,Colon-Rectum Cancers,0.24
+40,Appendicitis,0.22
+41,Pertussis,0.19
+42,Cervical Cancer,0.19
+43,Skin Disease,0.18
+44,Ovary Cancer,0.18
+45,Encephalitis,0.16
+46,Prostate Cancer,0.15
+47,Syphilis,0.14
+48,Lymphomas,0.13
+49,Oral Cancer,0.13

@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,50.12
+1,Stroke,12.51
+2,Alzheimers & Dementia,3.55
+3,Lung Cancers,2.85
+4,Suicide,2.22
+5,Colon-Rectum Cancers,2.17
+6,Liver Disease,2.15
+7,Stomach Cancer,1.87
+8,Lung Disease,1.72
+9,HIV/AIDS,1.35
+10,Hypertension,1.18
+11,Breast Cancer,1.13
+12,Alcohol,1.10
+13,Road Traffic Accidents,1.06
+14,Other Injuries,1.04
+15,Falls,1.02
+16,Drug Use,0.83
+17,Prostate Cancer,0.80
+18,Pancreas Cancer,0.78
+19,Influenza and Pneumonia,0.78
+20,Oral Cancer,0.74
+21,Drownings,0.66
+22,Leukemia,0.60
+23,Fires,0.55
+24,Inflammatory/Heart,0.53
+25,Parkinson's Disease,0.52
+26,Lymphomas,0.52
+27,Kidney Disease,0.51
+28,Violence,0.44
+29,Ovary Cancer,0.43
+30,Oesophagus Cancer,0.38
+31,Liver Cancer,0.37
+32,Diabetes Mellitus,0.36
+33,Bladder Cancer,0.36
+34,Uterin Cancer,0.32
+35,Cervical Cancer,0.31
+36,Skin Cancers,0.30
+37,Rheumatic Heart Disease,0.27
+38,Congenital Anomalies,0.23
+39,Poisonings,0.22
+40,Tuberculosis,0.20
+41,Peptic Ulcer Disease,0.19
+42,Asthma,0.15
+43,Epilepsy,0.12
+44,Endocrine Disorders,0.10
+45,Low Birth Weight,0.07
+46,Encephalitis,0.05
+47,Multiple Sclerosis,0.04
+48,Meningitis,0.04
+49,Birth Trauma,0.03

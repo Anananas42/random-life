@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Malaria,15.35
+1,Influenza and Pneumonia,11.24
+2,Diarrhoeal diseases,8.98
+3,Coronary Heart Disease,6.55
+4,Low Birth Weight,4.66
+5,Road Traffic Accidents,4.32
+6,Birth Trauma,4.00
+7,Stroke,3.78
+8,Endocrine Disorders,3.13
+9,Malnutrition,3.06
+10,Meningitis,2.86
+11,Congenital Anomalies,2.47
+12,HIV/AIDS,2.24
+13,Other Injuries,1.82
+14,Maternal Conditions,1.81
+15,Liver Disease,1.75
+16,Diabetes Mellitus,1.51
+17,Violence,1.31
+18,Falls,1.25
+19,Tuberculosis,1.17
+20,Drownings,1.05
+21,Suicide,1.04
+22,Lung Disease,1.01
+23,Liver Cancer,1.00
+24,Hypertension,0.90
+25,Kidney Disease,0.89
+26,Alzheimers & Dementia,0.83
+27,Fires,0.75
+28,Cervical Cancer,0.69
+29,Peptic Ulcer Disease,0.60
+30,Asthma,0.57
+31,Breast Cancer,0.55
+32,Rheumatic Heart Disease,0.53
+33,Skin Disease,0.50
+34,Inflammatory/Heart,0.47
+35,Schistosomiasis,0.42
+36,Syphilis,0.42
+37,Poisonings,0.40
+38,Measles,0.36
+39,Epilepsy,0.36
+40,Hepatitis B,0.34
+41,Prostate Cancer,0.31
+42,Other Neoplasms,0.23
+43,Appendicitis,0.20
+44,Lymphomas,0.20
+45,Stomach Cancer,0.20
+46,Alcohol,0.18
+47,Bladder Cancer,0.17
+48,Tetanus,0.16
+49,Colon-Rectum Cancers,0.16

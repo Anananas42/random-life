@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,19.17
+1,Stroke,11.83
+2,Diabetes Mellitus,9.70
+3,Kidney Disease,5.92
+4,Influenza and Pneumonia,5.80
+5,Alzheimers & Dementia,4.73
+6,Lung Disease,3.79
+7,Road Traffic Accidents,3.43
+8,Hypertension,2.37
+9,Congenital Anomalies,2.37
+10,Low Birth Weight,2.25
+11,Liver Disease,1.78
+12,Stomach Cancer,1.78
+13,Asthma,1.66
+14,Inflammatory/Heart,1.42
+15,Colon-Rectum Cancers,1.18
+16,Lung Cancers,1.18
+17,Lymphomas,1.18
+18,Suicide,1.07
+19,Diarrhoeal diseases,1.07
+20,Endocrine Disorders,0.95
+21,Liver Cancer,0.95
+22,Other Injuries,0.95
+23,Skin Disease,0.95
+24,Rheumatic Heart Disease,0.83
+25,Leukemia,0.83
+26,Breast Cancer,0.83
+27,Oral Cancer,0.71
+28,Drownings,0.71
+29,Violence,0.71
+30,Birth Trauma,0.71
+31,Prostate Cancer,0.59
+32,Pancreas Cancer,0.59
+33,Cervical Cancer,0.59
+34,Malnutrition,0.59
+35,Falls,0.47
+36,Ovary Cancer,0.47
+37,Peptic Ulcer Disease,0.47
+38,Skin Cancers,0.36
+39,Parkinson's Disease,0.24
+40,Maternal Conditions,0.24
+41,Bladder Cancer,0.24
+42,Oesophagus Cancer,0.24
+43,Meningitis,0.24
+44,Syphilis,0.24
+45,Uterin Cancer,0.24
+46,Pertussis,0.12
+47,Measles,0.12
+48,Epilepsy,0.12
+49,Leprosy,0.12

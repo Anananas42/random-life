@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,22.83
+1,Influenza and Pneumonia,11.02
+2,Stroke,10.45
+3,Diabetes Mellitus,5.07
+4,Road Traffic Accidents,4.24
+5,Alzheimers & Dementia,3.82
+6,Lung Disease,3.22
+7,Liver Disease,2.95
+8,Kidney Disease,2.73
+9,HIV/AIDS,2.54
+10,Suicide,2.31
+11,Congenital Anomalies,2.20
+12,Liver Cancer,2.20
+13,Low Birth Weight,1.78
+14,Violence,1.67
+15,Diarrhoeal diseases,1.51
+16,Hypertension,1.36
+17,Cervical Cancer,1.29
+18,Other Injuries,1.14
+19,Breast Cancer,1.02
+20,Prostate Cancer,0.95
+21,Drownings,0.83
+22,Asthma,0.76
+23,Tuberculosis,0.76
+24,Birth Trauma,0.72
+25,Stomach Cancer,0.68
+26,Colon-Rectum Cancers,0.64
+27,Meningitis,0.64
+28,Inflammatory/Heart,0.61
+29,Lymphomas,0.53
+30,Endocrine Disorders,0.45
+31,Skin Disease,0.45
+32,Falls,0.45
+33,Drug Use,0.45
+34,Epilepsy,0.45
+35,Rheumatic Heart Disease,0.38
+36,Lung Cancers,0.34
+37,Ovary Cancer,0.34
+38,Malnutrition,0.30
+39,Leukemia,0.30
+40,Oral Cancer,0.30
+41,Parkinson's Disease,0.30
+42,Peptic Ulcer Disease,0.30
+43,Other Neoplasms,0.27
+44,Fires,0.27
+45,Oesophagus Cancer,0.27
+46,Maternal Conditions,0.23
+47,Pancreas Cancer,0.23
+48,Bladder Cancer,0.23
+49,Alcohol,0.19

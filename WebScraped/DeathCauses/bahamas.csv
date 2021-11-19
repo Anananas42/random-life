@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,13.74
+1,HIV/AIDS,12.19
+2,Stroke,8.08
+3,Hypertension,6.53
+4,Diabetes Mellitus,5.43
+5,Violence,5.30
+6,Influenza and Pneumonia,4.20
+7,Prostate Cancer,4.02
+8,Breast Cancer,3.52
+9,Kidney Disease,3.38
+10,Colon-Rectum Cancers,3.15
+11,Alzheimers & Dementia,3.11
+12,Liver Disease,2.01
+13,Lung Cancers,1.92
+14,Road Traffic Accidents,1.74
+15,Inflammatory/Heart,1.55
+16,Lymphomas,1.51
+17,Endocrine Disorders,1.46
+18,Stomach Cancer,1.42
+19,Cervical Cancer,1.19
+20,Lung Disease,1.14
+21,Liver Cancer,1.14
+22,Other Injuries,1.10
+23,Skin Disease,1.00
+24,Drownings,0.68
+25,Oral Cancer,0.64
+26,Pancreas Cancer,0.64
+27,Low Birth Weight,0.64
+28,Oesophagus Cancer,0.55
+29,Congenital Anomalies,0.50
+30,Leukemia,0.50
+31,Uterin Cancer,0.46
+32,Ovary Cancer,0.46
+33,Falls,0.41
+34,Fires,0.37
+35,Alcohol,0.37
+36,Skin Cancers,0.37
+37,Suicide,0.32
+38,Peptic Ulcer Disease,0.32
+39,Other Neoplasms,0.32
+40,Parkinson's Disease,0.32
+41,Birth Trauma,0.27
+42,Bladder Cancer,0.27
+43,Rheumatic Heart Disease,0.23
+44,Asthma,0.23
+45,Maternal Conditions,0.18
+46,Epilepsy,0.18
+47,Drug Use,0.14
+48,Malnutrition,0.14
+49,Diarrhoeal diseases,0.14

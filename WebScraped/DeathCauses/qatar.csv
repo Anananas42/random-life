@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,22.26
+1,Diabetes Mellitus,9.95
+2,Road Traffic Accidents,8.37
+3,Violence,5.27
+4,Suicide,4.71
+5,Stroke,4.07
+6,Kidney Disease,3.66
+7,Alzheimers & Dementia,3.55
+8,Liver Disease,3.16
+9,Other Injuries,3.10
+10,Falls,2.91
+11,Lung Cancers,2.36
+12,Congenital Anomalies,2.13
+13,Colon-Rectum Cancers,2.05
+14,Influenza and Pneumonia,2.02
+15,Lymphomas,1.66
+16,Liver Cancer,1.66
+17,Low Birth Weight,1.44
+18,Leukemia,1.36
+19,Drownings,1.33
+20,Breast Cancer,1.16
+21,Lung Disease,1.11
+22,Stomach Cancer,1.05
+23,Endocrine Disorders,0.80
+24,Inflammatory/Heart,0.78
+25,Fires,0.67
+26,Pancreas Cancer,0.55
+27,Prostate Cancer,0.53
+28,Oesophagus Cancer,0.53
+29,Oral Cancer,0.47
+30,Birth Trauma,0.42
+31,Parkinson's Disease,0.39
+32,Hypertension,0.36
+33,Bladder Cancer,0.33
+34,Epilepsy,0.33
+35,Ovary Cancer,0.33
+36,Drug Use,0.33
+37,Poisonings,0.30
+38,Skin Disease,0.28
+39,Alcohol,0.22
+40,Tuberculosis,0.19
+41,Cervical Cancer,0.17
+42,Encephalitis,0.17
+43,Meningitis,0.17
+44,Asthma,0.17
+45,Rheumatic Heart Disease,0.14
+46,Other Neoplasms,0.14
+47,Peptic Ulcer Disease,0.14
+48,Hepatitis B,0.14
+49,Skin Cancers,0.11

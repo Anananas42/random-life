@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,War,48.55
+1,Coronary Heart Disease,20.72
+2,Stroke,3.98
+3,Alzheimers & Dementia,2.59
+4,Road Traffic Accidents,2.47
+5,Kidney Disease,1.55
+6,Influenza and Pneumonia,1.41
+7,Lung Cancers,1.26
+8,Breast Cancer,1.19
+9,Colon-Rectum Cancers,1.11
+10,Diarrhoeal diseases,1.10
+11,Congenital Anomalies,1.02
+12,Lung Disease,1.00
+13,Low Birth Weight,0.95
+14,Diabetes Mellitus,0.93
+15,Liver Disease,0.88
+16,Lymphomas,0.77
+17,Leukemia,0.62
+18,Asthma,0.54
+19,Stomach Cancer,0.51
+20,Bladder Cancer,0.48
+21,Birth Trauma,0.41
+22,Other Injuries,0.41
+23,Other Neoplasms,0.41
+24,Liver Cancer,0.39
+25,Endocrine Disorders,0.36
+26,Inflammatory/Heart,0.36
+27,Pancreas Cancer,0.35
+28,Prostate Cancer,0.34
+29,Violence,0.32
+30,Hypertension,0.30
+31,Suicide,0.25
+32,Maternal Conditions,0.22
+33,Ovary Cancer,0.20
+34,Parkinson's Disease,0.19
+35,Falls,0.19
+36,Oral Cancer,0.18
+37,Meningitis,0.17
+38,Rheumatic Heart Disease,0.15
+39,Syphilis,0.12
+40,Drownings,0.10
+41,Drug Use,0.10
+42,Fires,0.10
+43,Oesophagus Cancer,0.09
+44,Malnutrition,0.08
+45,Cervical Cancer,0.06
+46,Epilepsy,0.06
+47,Appendicitis,0.05
+48,Peptic Ulcer Disease,0.05
+49,Uterin Cancer,0.05

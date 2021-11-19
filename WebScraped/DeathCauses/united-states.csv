@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,20.80
+1,Alzheimers & Dementia,10.79
+2,Lung Disease,8.03
+3,Lung Cancers,6.47
+4,Stroke,6.12
+5,Diabetes Mellitus,3.51
+6,Kidney Disease,2.76
+7,Influenza and Pneumonia,2.75
+8,Colon-Rectum Cancers,2.62
+9,Liver Disease,2.07
+10,Breast Cancer,2.05
+11,Suicide,2.05
+12,Hypertension,1.93
+13,Endocrine Disorders,1.89
+14,Pancreas Cancer,1.86
+15,Lymphomas,1.68
+16,Road Traffic Accidents,1.59
+17,Falls,1.50
+18,Drug Use,1.50
+19,Prostate Cancer,1.48
+20,Inflammatory/Heart,1.35
+21,Parkinson's Disease,1.27
+22,Liver Cancer,1.16
+23,Leukemia,1.15
+24,Other Injuries,0.98
+25,Violence,0.88
+26,Bladder Cancer,0.81
+27,Oesophagus Cancer,0.76
+28,Other Neoplasms,0.69
+29,Ovary Cancer,0.62
+30,Skin Cancers,0.60
+31,Stomach Cancer,0.57
+32,Congenital Anomalies,0.54
+33,Oral Cancer,0.50
+34,Alcohol,0.44
+35,Diarrhoeal diseases,0.41
+36,Uterin Cancer,0.38
+37,Cervical Cancer,0.36
+38,Encephalitis,0.31
+39,Low Birth Weight,0.30
+40,Malnutrition,0.26
+41,HIV/AIDS,0.26
+42,Skin Disease,0.22
+43,Drownings,0.19
+44,Multiple Sclerosis,0.18
+45,Asthma,0.18
+46,Rheumatic Heart Disease,0.15
+47,Peptic Ulcer Disease,0.14
+48,Fires,0.13
+49,Anemia,0.12

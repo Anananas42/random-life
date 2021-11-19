@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,HIV/AIDS,35.36
+1,Influenza and Pneumonia,6.69
+2,Stroke,5.79
+3,Diarrhoeal diseases,5.41
+4,Coronary Heart Disease,5.16
+5,Diabetes Mellitus,4.32
+6,Tuberculosis,4.08
+7,Low Birth Weight,3.33
+8,Violence,2.75
+9,Lung Disease,2.73
+10,Birth Trauma,2.50
+11,Road Traffic Accidents,2.09
+12,Hypertension,1.91
+13,Suicide,1.67
+14,Maternal Conditions,1.39
+15,Congenital Anomalies,1.27
+16,Asthma,1.02
+17,Kidney Disease,1.02
+18,Malnutrition,0.87
+19,Alzheimers & Dementia,0.80
+20,Other Injuries,0.73
+21,Endocrine Disorders,0.71
+22,Meningitis,0.66
+23,Oesophagus Cancer,0.62
+24,Cervical Cancer,0.62
+25,Epilepsy,0.59
+26,Liver Disease,0.57
+27,Inflammatory/Heart,0.53
+28,Fires,0.48
+29,Drownings,0.37
+30,Rheumatic Heart Disease,0.36
+31,Peptic Ulcer Disease,0.32
+32,Liver Cancer,0.28
+33,Poisonings,0.25
+34,Prostate Cancer,0.22
+35,Measles,0.19
+36,Skin Cancers,0.19
+37,Syphilis,0.17
+38,Falls,0.16
+39,Tetanus,0.15
+40,Other Neoplasms,0.15
+41,Skin Disease,0.15
+42,Breast Cancer,0.14
+43,Drug Use,0.13
+44,Lung Cancers,0.13
+45,Oral Cancer,0.12
+46,Lymphomas,0.11
+47,Colon-Rectum Cancers,0.10
+48,Alcohol,0.08
+49,Appendicitis,0.07

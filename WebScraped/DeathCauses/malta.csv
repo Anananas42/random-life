@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,29.76
+1,Stroke,9.51
+2,Lung Cancers,6.04
+3,Influenza and Pneumonia,5.94
+4,Diabetes Mellitus,4.79
+5,Alzheimers & Dementia,4.76
+6,Lung Disease,4.56
+7,Colon-Rectum Cancers,4.23
+8,Breast Cancer,2.94
+9,Pancreas Cancer,2.81
+10,Lymphomas,1.65
+11,Stomach Cancer,1.52
+12,Kidney Disease,1.52
+13,Parkinson's Disease,1.52
+14,Prostate Cancer,1.45
+15,Falls,1.39
+16,Suicide,1.06
+17,Ovary Cancer,1.06
+18,Bladder Cancer,1.02
+19,Leukemia,0.89
+20,Oral Cancer,0.86
+21,Liver Cancer,0.83
+22,Liver Disease,0.76
+23,Uterin Cancer,0.73
+24,Skin Disease,0.73
+25,Oesophagus Cancer,0.69
+26,Other Neoplasms,0.69
+27,Hypertension,0.66
+28,Inflammatory/Heart,0.66
+29,Endocrine Disorders,0.53
+30,Skin Cancers,0.50
+31,Congenital Anomalies,0.50
+32,Road Traffic Accidents,0.46
+33,Other Injuries,0.43
+34,Low Birth Weight,0.33
+35,Peptic Ulcer Disease,0.30
+36,Asthma,0.23
+37,Drug Use,0.23
+38,Encephalitis,0.17
+39,Cervical Cancer,0.17
+40,Violence,0.13
+41,Prostatic Hypertrophy,0.10
+42,Drownings,0.10
+43,Rheumatic Heart Disease,0.10
+44,Alcohol,0.07
+45,Birth Trauma,0.07
+46,Tuberculosis,0.07
+47,HIV/AIDS,0.07
+48,Diarrhoeal diseases,0.07
+49,Epilepsy,0.07

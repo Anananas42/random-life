@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,15.37
+1,Influenza and Pneumonia,10.03
+2,Stroke,7.58
+3,Kidney Disease,6.00
+4,Diabetes Mellitus,4.59
+5,Liver Disease,4.30
+6,Road Traffic Accidents,4.06
+7,Lung Disease,3.88
+8,Alzheimers & Dementia,3.18
+9,Low Birth Weight,2.69
+10,Other Injuries,2.50
+11,Congenital Anomalies,2.47
+12,Violence,2.46
+13,Birth Trauma,2.20
+14,Suicide,2.12
+15,Diarrhoeal diseases,1.66
+16,Malnutrition,1.61
+17,Tuberculosis,1.50
+18,Cervical Cancer,1.46
+19,HIV/AIDS,1.33
+20,Hypertension,1.25
+21,Falls,1.20
+22,Drownings,1.19
+23,Prostate Cancer,0.97
+24,Stomach Cancer,0.90
+25,Peptic Ulcer Disease,0.90
+26,Colon-Rectum Cancers,0.78
+27,Maternal Conditions,0.73
+28,Chagas disease,0.64
+29,Lung Cancers,0.63
+30,Alcohol,0.58
+31,Endocrine Disorders,0.55
+32,Breast Cancer,0.54
+33,Inflammatory/Heart,0.50
+34,Liver Cancer,0.49
+35,Lymphomas,0.48
+36,Epilepsy,0.47
+37,Rheumatic Heart Disease,0.44
+38,Leukemia,0.44
+39,Fires,0.40
+40,Other Neoplasms,0.39
+41,Appendicitis,0.37
+42,Ovary Cancer,0.37
+43,Poisonings,0.35
+44,Meningitis,0.34
+45,Syphilis,0.32
+46,Drug Use,0.32
+47,Skin Cancers,0.32
+48,Pancreas Cancer,0.31
+49,Parkinson's Disease,0.30

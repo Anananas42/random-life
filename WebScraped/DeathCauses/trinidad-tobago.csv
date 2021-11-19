@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,19.68
+1,Diabetes Mellitus,17.13
+2,Stroke,10.14
+3,Violence,5.30
+4,Prostate Cancer,3.22
+5,Influenza and Pneumonia,2.97
+6,Hypertension,2.68
+7,HIV/AIDS,2.42
+8,Kidney Disease,2.32
+9,Breast Cancer,2.17
+10,Road Traffic Accidents,2.13
+11,Lung Disease,2.03
+12,Endocrine Disorders,1.95
+13,Colon-Rectum Cancers,1.89
+14,Suicide,1.71
+15,Lung Cancers,1.53
+16,Alzheimers & Dementia,1.13
+17,Cervical Cancer,1.10
+18,Other Injuries,1.07
+19,Congenital Anomalies,1.06
+20,Liver Disease,1.04
+21,Lymphomas,1.01
+22,Low Birth Weight,0.90
+23,Other Neoplasms,0.90
+24,Pancreas Cancer,0.84
+25,Inflammatory/Heart,0.76
+26,Asthma,0.65
+27,Drownings,0.63
+28,Ovary Cancer,0.62
+29,Leukemia,0.61
+30,Stomach Cancer,0.59
+31,Skin Disease,0.55
+32,Peptic Ulcer Disease,0.50
+33,Liver Cancer,0.50
+34,Uterin Cancer,0.45
+35,Anemia,0.45
+36,Epilepsy,0.42
+37,Oral Cancer,0.38
+38,Bladder Cancer,0.36
+39,Encephalitis,0.35
+40,Falls,0.34
+41,Parkinson's Disease,0.32
+42,Prostatic Hypertrophy,0.32
+43,Birth Trauma,0.28
+44,Alcohol,0.23
+45,Diarrhoeal diseases,0.23
+46,Malnutrition,0.22
+47,Tuberculosis,0.21
+48,Oesophagus Cancer,0.19
+49,Dengue,0.18

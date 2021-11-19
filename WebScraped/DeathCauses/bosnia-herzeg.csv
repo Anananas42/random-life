@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,30.75
+1,Stroke,19.60
+2,Diabetes Mellitus,7.30
+3,Alzheimers & Dementia,5.56
+4,Lung Cancers,5.24
+5,Lung Disease,3.75
+6,Colon-Rectum Cancers,2.31
+7,Inflammatory/Heart,2.28
+8,Kidney Disease,1.87
+9,Liver Disease,1.66
+10,Road Traffic Accidents,1.61
+11,Liver Cancer,1.46
+12,Stomach Cancer,1.42
+13,Breast Cancer,1.32
+14,Pancreas Cancer,1.16
+15,Prostate Cancer,1.09
+16,Influenza and Pneumonia,1.05
+17,Hypertension,1.00
+18,Suicide,0.88
+19,Parkinson's Disease,0.79
+20,Bladder Cancer,0.68
+21,Other Injuries,0.50
+22,Ovary Cancer,0.46
+23,Lymphomas,0.43
+24,Alcohol,0.41
+25,Tuberculosis,0.39
+26,Falls,0.36
+27,Peptic Ulcer Disease,0.35
+28,Other Neoplasms,0.34
+29,Violence,0.33
+30,Leukemia,0.33
+31,Skin Cancers,0.29
+32,Oesophagus Cancer,0.29
+33,Oral Cancer,0.27
+34,Cervical Cancer,0.26
+35,Uterin Cancer,0.25
+36,Congenital Anomalies,0.22
+37,Endocrine Disorders,0.21
+38,Asthma,0.21
+39,Rheumatic Heart Disease,0.20
+40,Low Birth Weight,0.18
+41,Epilepsy,0.17
+42,Fires,0.13
+43,Drownings,0.09
+44,Multiple Sclerosis,0.08
+45,Drug Use,0.07
+46,Birth Trauma,0.05
+47,Rheumatoid Arthritis,0.05
+48,Poisonings,0.05
+49,Appendicitis,0.04

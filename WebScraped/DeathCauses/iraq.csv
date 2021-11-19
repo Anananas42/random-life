@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,War,21.07
+1,Coronary Heart Disease,18.92
+2,Stroke,6.53
+3,Low Birth Weight,4.69
+4,Influenza and Pneumonia,4.31
+5,Diabetes Mellitus,4.24
+6,Road Traffic Accidents,3.61
+7,Congenital Anomalies,3.38
+8,Violence,3.36
+9,Birth Trauma,3.28
+10,Kidney Disease,2.56
+11,Alzheimers & Dementia,2.11
+12,Lung Cancers,1.44
+13,Diarrhoeal diseases,1.42
+14,Breast Cancer,1.33
+15,Lung Disease,1.14
+16,Other Injuries,1.11
+17,Leukemia,1.04
+18,Hypertension,1.02
+19,Lymphomas,0.99
+20,Other Neoplasms,0.95
+21,Inflammatory/Heart,0.89
+22,Bladder Cancer,0.74
+23,Tuberculosis,0.74
+24,Suicide,0.66
+25,Colon-Rectum Cancers,0.64
+26,Liver Disease,0.61
+27,Asthma,0.58
+28,Stomach Cancer,0.56
+29,Endocrine Disorders,0.47
+30,Liver Cancer,0.46
+31,Maternal Conditions,0.38
+32,Falls,0.35
+33,Fires,0.34
+34,Drownings,0.33
+35,Rheumatic Heart Disease,0.32
+36,Pancreas Cancer,0.32
+37,Meningitis,0.32
+38,Prostate Cancer,0.30
+39,Oral Cancer,0.28
+40,Drug Use,0.28
+41,Ovary Cancer,0.25
+42,Encephalitis,0.17
+43,Syphilis,0.15
+44,Epilepsy,0.14
+45,Parkinson's Disease,0.14
+46,Malnutrition,0.14
+47,Oesophagus Cancer,0.12
+48,Poisonings,0.11
+49,Cervical Cancer,0.09

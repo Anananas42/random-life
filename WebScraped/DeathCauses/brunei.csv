@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,17.23
+1,Diabetes Mellitus,9.54
+2,Stroke,8.92
+3,Lung Disease,5.04
+4,Lung Cancers,4.43
+5,Alzheimers & Dementia,4.22
+6,Colon-Rectum Cancers,4.09
+7,Influenza and Pneumonia,4.02
+8,Kidney Disease,3.95
+9,Inflammatory/Heart,2.11
+10,Road Traffic Accidents,2.04
+11,Congenital Anomalies,1.91
+12,Liver Cancer,1.84
+13,Breast Cancer,1.77
+14,Tuberculosis,1.70
+15,Lymphomas,1.57
+16,Oral Cancer,1.57
+17,Liver Disease,1.50
+18,Stomach Cancer,1.50
+19,Ovary Cancer,1.50
+20,Suicide,1.29
+21,Endocrine Disorders,1.29
+22,Other Injuries,1.23
+23,Pancreas Cancer,1.23
+24,Low Birth Weight,1.16
+25,Asthma,1.16
+26,Falls,1.09
+27,Prostate Cancer,1.09
+28,Hypertension,1.02
+29,Cervical Cancer,1.02
+30,Drownings,0.95
+31,Leukemia,0.68
+32,Skin Cancers,0.68
+33,Violence,0.61
+34,Epilepsy,0.54
+35,Rheumatic Heart Disease,0.48
+36,Peptic Ulcer Disease,0.41
+37,Oesophagus Cancer,0.41
+38,Bladder Cancer,0.34
+39,Fires,0.34
+40,Parkinson's Disease,0.34
+41,Uterin Cancer,0.34
+42,Skin Disease,0.27
+43,Birth Trauma,0.20
+44,Other Neoplasms,0.20
+45,Meningitis,0.20
+46,Appendicitis,0.14
+47,Diarrhoeal diseases,0.14
+48,Encephalitis,0.14
+49,Maternal Conditions,0.14

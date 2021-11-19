@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,23.35
+1,Alzheimers & Dementia,11.93
+2,Stroke,7.39
+3,Lung Cancers,7.18
+4,Lung Disease,6.51
+5,Colon-Rectum Cancers,3.98
+6,Influenza and Pneumonia,3.51
+7,Prostate Cancer,3.20
+8,Breast Cancer,2.94
+9,Pancreas Cancer,2.69
+10,Suicide,2.43
+11,Other Injuries,2.22
+12,Parkinson's Disease,1.70
+13,Lymphomas,1.65
+14,Diabetes Mellitus,1.45
+15,Kidney Disease,1.29
+16,Hypertension,1.14
+17,Stomach Cancer,1.08
+18,Liver Cancer,1.03
+19,Oesophagus Cancer,0.98
+20,Falls,0.98
+21,Bladder Cancer,0.93
+22,Leukemia,0.93
+23,Endocrine Disorders,0.83
+24,Ovary Cancer,0.77
+25,Road Traffic Accidents,0.67
+26,Drug Use,0.67
+27,Liver Disease,0.57
+28,Oral Cancer,0.52
+29,Alcohol,0.52
+30,Inflammatory/Heart,0.52
+31,Congenital Anomalies,0.41
+32,Skin Cancers,0.41
+33,Other Neoplasms,0.41
+34,Diarrhoeal diseases,0.26
+35,Epilepsy,0.26
+36,Malnutrition,0.21
+37,Multiple Sclerosis,0.21
+38,Violence,0.21
+39,Skin Disease,0.21
+40,Uterin Cancer,0.21
+41,Drownings,0.21
+42,Peptic Ulcer Disease,0.15
+43,Anemia,0.15
+44,Cervical Cancer,0.15
+45,Asthma,0.10
+46,Low Birth Weight,0.10
+47,Hepatitis B,0.10
+48,Encephalitis,0.10
+49,Rheumatic Heart Disease,0.10

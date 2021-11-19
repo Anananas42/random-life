@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Diarrhoeal diseases,14.75
+1,HIV/AIDS,14.05
+2,Tuberculosis,9.66
+3,Influenza and Pneumonia,7.64
+4,Road Traffic Accidents,5.28
+5,Low Birth Weight,4.33
+6,Birth Trauma,4.21
+7,Malaria,3.85
+8,Coronary Heart Disease,2.95
+9,Stroke,2.82
+10,Congenital Anomalies,2.61
+11,Malnutrition,2.18
+12,Maternal Conditions,2.10
+13,Meningitis,1.50
+14,Other Injuries,1.31
+15,Oesophagus Cancer,1.24
+16,Violence,1.01
+17,Alzheimers & Dementia,1.01
+18,Liver Disease,0.98
+19,Lung Disease,0.91
+20,Diabetes Mellitus,0.90
+21,Prostate Cancer,0.86
+22,Cervical Cancer,0.85
+23,Breast Cancer,0.75
+24,Falls,0.74
+25,Hypertension,0.71
+26,Tetanus,0.67
+27,Stomach Cancer,0.65
+28,Suicide,0.60
+29,Lymphomas,0.59
+30,Drownings,0.58
+31,Oral Cancer,0.54
+32,Colon-Rectum Cancers,0.51
+33,Fires,0.48
+34,Endocrine Disorders,0.47
+35,Liver Cancer,0.42
+36,Leukemia,0.42
+37,Kidney Disease,0.41
+38,Asthma,0.35
+39,Poisonings,0.34
+40,Inflammatory/Heart,0.33
+41,Measles,0.30
+42,Skin Disease,0.29
+43,Peptic Ulcer Disease,0.28
+44,Syphilis,0.24
+45,Other Neoplasms,0.23
+46,Pancreas Cancer,0.21
+47,Ovary Cancer,0.21
+48,Hepatitis B,0.21
+49,Epilepsy,0.20

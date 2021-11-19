@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,HIV/AIDS,10.91
+1,Influenza and Pneumonia,10.89
+2,Diarrhoeal diseases,7.27
+3,Malaria,4.71
+4,Birth Trauma,4.64
+5,Road Traffic Accidents,4.52
+6,Low Birth Weight,4.44
+7,Tuberculosis,4.05
+8,Coronary Heart Disease,4.02
+9,Stroke,3.82
+10,Congenital Anomalies,2.93
+11,Meningitis,2.76
+12,Malnutrition,2.18
+13,Maternal Conditions,2.08
+14,Violence,2.01
+15,Other Injuries,1.97
+16,Liver Disease,1.83
+17,Diabetes Mellitus,1.76
+18,Suicide,1.58
+19,Syphilis,1.35
+20,Lung Disease,1.29
+21,Drownings,1.22
+22,Falls,1.06
+23,Prostate Cancer,1.03
+24,Hypertension,0.97
+25,Cervical Cancer,0.92
+26,Alzheimers & Dementia,0.92
+27,Oesophagus Cancer,0.90
+28,Fires,0.86
+29,Endocrine Disorders,0.84
+30,Kidney Disease,0.79
+31,Asthma,0.71
+32,Lymphomas,0.71
+33,Peptic Ulcer Disease,0.61
+34,Liver Cancer,0.55
+35,Epilepsy,0.53
+36,Breast Cancer,0.53
+37,Poisonings,0.51
+38,Inflammatory/Heart,0.46
+39,Skin Disease,0.40
+40,Colon-Rectum Cancers,0.35
+41,Hepatitis B,0.32
+42,Leukemia,0.31
+43,Oral Cancer,0.30
+44,Other Neoplasms,0.28
+45,Stomach Cancer,0.28
+46,Tetanus,0.24
+47,Schistosomiasis,0.23
+48,Appendicitis,0.21
+49,Ovary Cancer,0.19

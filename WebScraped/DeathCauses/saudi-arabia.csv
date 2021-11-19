@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,26.36
+1,Stroke,10.46
+2,Road Traffic Accidents,8.75
+3,Kidney Disease,6.19
+4,Influenza and Pneumonia,5.93
+5,Alzheimers & Dementia,4.78
+6,Diabetes Mellitus,3.59
+7,Liver Disease,3.08
+8,Congenital Anomalies,2.67
+9,Violence,1.92
+10,Low Birth Weight,1.89
+11,Falls,1.78
+12,Lung Disease,1.69
+13,Other Injuries,1.52
+14,Colon-Rectum Cancers,1.28
+15,Inflammatory/Heart,1.16
+16,Lymphomas,1.12
+17,Suicide,0.99
+18,Endocrine Disorders,0.91
+19,Drownings,0.91
+20,Breast Cancer,0.88
+21,Lung Cancers,0.84
+22,Skin Disease,0.81
+23,Tuberculosis,0.81
+24,Liver Cancer,0.79
+25,Leukemia,0.68
+26,Birth Trauma,0.63
+27,Fires,0.60
+28,Asthma,0.49
+29,Other Neoplasms,0.47
+30,Stomach Cancer,0.44
+31,Pancreas Cancer,0.44
+32,Parkinson's Disease,0.43
+33,Hypertension,0.42
+34,Diarrhoeal diseases,0.36
+35,Prostate Cancer,0.36
+36,Oral Cancer,0.31
+37,Drug Use,0.30
+38,Epilepsy,0.25
+39,Bladder Cancer,0.25
+40,Ovary Cancer,0.22
+41,Oesophagus Cancer,0.22
+42,War,0.21
+43,Poisonings,0.20
+44,Rheumatic Heart Disease,0.20
+45,HIV/AIDS,0.20
+46,Meningitis,0.17
+47,Hepatitis B,0.15
+48,Peptic Ulcer Disease,0.13
+49,Encephalitis,0.12

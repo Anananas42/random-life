@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,31.65
+1,Stroke,11.17
+2,Alzheimers & Dementia,8.41
+3,Kidney Disease,5.52
+4,Diabetes Mellitus,5.32
+5,Influenza and Pneumonia,4.36
+6,Road Traffic Accidents,3.94
+7,Lung Disease,3.33
+8,Lung Cancers,2.76
+9,Liver Disease,2.26
+10,Congenital Anomalies,1.31
+11,Hypertension,1.30
+12,Colon-Rectum Cancers,1.25
+13,Low Birth Weight,1.07
+14,Breast Cancer,1.03
+15,Lymphomas,0.95
+16,Inflammatory/Heart,0.87
+17,Asthma,0.78
+18,Other Neoplasms,0.71
+19,Endocrine Disorders,0.70
+20,Falls,0.70
+21,Bladder Cancer,0.70
+22,Stomach Cancer,0.65
+23,Parkinson's Disease,0.61
+24,Prostate Cancer,0.58
+25,Suicide,0.58
+26,Other Injuries,0.58
+27,Tuberculosis,0.57
+28,Leukemia,0.53
+29,Birth Trauma,0.48
+30,Oral Cancer,0.43
+31,Diarrhoeal diseases,0.41
+32,Skin Disease,0.40
+33,Pancreas Cancer,0.36
+34,Peptic Ulcer Disease,0.33
+35,Fires,0.30
+36,Violence,0.29
+37,Ovary Cancer,0.27
+38,Drownings,0.24
+39,Rheumatic Heart Disease,0.21
+40,Maternal Conditions,0.19
+41,Liver Cancer,0.19
+42,Epilepsy,0.18
+43,Drug Use,0.17
+44,Cervical Cancer,0.16
+45,Meningitis,0.16
+46,HIV/AIDS,0.13
+47,Skin Cancers,0.11
+48,Oesophagus Cancer,0.09
+49,War,0.09

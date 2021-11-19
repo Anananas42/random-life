@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Diabetes Mellitus,11.60
+1,Stroke,10.33
+2,Coronary Heart Disease,10.04
+3,Influenza and Pneumonia,7.21
+4,Tuberculosis,4.95
+5,Diarrhoeal diseases,4.67
+6,Low Birth Weight,3.82
+7,Birth Trauma,3.11
+8,Congenital Anomalies,2.97
+9,Lung Disease,2.69
+10,Asthma,2.69
+11,Kidney Disease,2.69
+12,Suicide,2.26
+13,Alzheimers & Dementia,2.12
+14,Malnutrition,2.12
+15,Liver Disease,1.98
+16,Other Injuries,1.70
+17,Liver Cancer,1.56
+18,Lung Cancers,1.56
+19,Violence,1.41
+20,Hypertension,1.41
+21,Rheumatic Heart Disease,1.41
+22,Meningitis,1.27
+23,Inflammatory/Heart,1.27
+24,Endocrine Disorders,1.13
+25,Breast Cancer,1.13
+26,Peptic Ulcer Disease,1.13
+27,Stomach Cancer,0.85
+28,Drownings,0.71
+29,Colon-Rectum Cancers,0.71
+30,Cervical Cancer,0.71
+31,Leukemia,0.57
+32,Skin Disease,0.57
+33,Maternal Conditions,0.57
+34,Epilepsy,0.42
+35,Pancreas Cancer,0.42
+36,Lymphomas,0.42
+37,Oral Cancer,0.42
+38,Poisonings,0.42
+39,Road Traffic Accidents,0.42
+40,Falls,0.28
+41,Prostate Cancer,0.28
+42,Oesophagus Cancer,0.28
+43,Appendicitis,0.28
+44,Drug Use,0.14
+45,Skin Cancers,0.14
+46,Measles,0.14
+47,Hepatitis B,0.14
+48,Parkinson's Disease,0.14
+49,Fires,0.14

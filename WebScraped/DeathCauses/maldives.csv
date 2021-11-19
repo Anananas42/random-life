@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,27.84
+1,Lung Disease,7.84
+2,Stroke,7.49
+3,Alzheimers & Dementia,6.70
+4,Kidney Disease,6.26
+5,Diabetes Mellitus,3.70
+6,Influenza and Pneumonia,2.20
+7,Congenital Anomalies,2.03
+8,Lung Cancers,1.94
+9,Oral Cancer,1.85
+10,Hypertension,1.67
+11,Liver Disease,1.67
+12,War,1.67
+13,Tuberculosis,1.50
+14,Endocrine Disorders,1.41
+15,Low Birth Weight,1.41
+16,Violence,1.32
+17,Breast Cancer,1.32
+18,Colon-Rectum Cancers,1.15
+19,Falls,1.15
+20,Road Traffic Accidents,1.15
+21,Drownings,1.06
+22,Oesophagus Cancer,0.97
+23,Suicide,0.88
+24,Stomach Cancer,0.88
+25,Leukemia,0.88
+26,Other Injuries,0.79
+27,Liver Cancer,0.79
+28,Lymphomas,0.70
+29,Ovary Cancer,0.62
+30,Prostate Cancer,0.62
+31,Skin Disease,0.62
+32,Inflammatory/Heart,0.62
+33,Cervical Cancer,0.62
+34,Asthma,0.53
+35,Rheumatic Heart Disease,0.53
+36,Parkinson's Disease,0.53
+37,Birth Trauma,0.53
+38,Dengue,0.44
+39,Maternal Conditions,0.44
+40,Pancreas Cancer,0.44
+41,Bladder Cancer,0.35
+42,Malnutrition,0.35
+43,Fires,0.35
+44,Epilepsy,0.35
+45,Diarrhoeal diseases,0.35
+46,HIV/AIDS,0.26
+47,Skin Cancers,0.18
+48,Peptic Ulcer Disease,0.18
+49,Drug Use,0.18

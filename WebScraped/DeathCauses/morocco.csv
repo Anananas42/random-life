@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,28.17
+1,Stroke,9.42
+2,Alzheimers & Dementia,6.49
+3,Diabetes Mellitus,6.40
+4,Kidney Disease,4.82
+5,Influenza and Pneumonia,4.56
+6,Road Traffic Accidents,4.01
+7,Lung Disease,2.80
+8,Low Birth Weight,2.68
+9,Lung Cancers,2.45
+10,Tuberculosis,1.98
+11,Breast Cancer,1.89
+12,Birth Trauma,1.72
+13,Congenital Anomalies,1.69
+14,Liver Disease,1.61
+15,Lymphomas,1.37
+16,Colon-Rectum Cancers,1.18
+17,Prostate Cancer,1.16
+18,Hypertension,1.01
+19,Diarrhoeal diseases,0.81
+20,Other Neoplasms,0.77
+21,Stomach Cancer,0.69
+22,Cervical Cancer,0.69
+23,Asthma,0.66
+24,Bladder Cancer,0.62
+25,Endocrine Disorders,0.62
+26,Inflammatory/Heart,0.61
+27,Suicide,0.61
+28,Other Injuries,0.59
+29,Falls,0.59
+30,Oral Cancer,0.58
+31,Leukemia,0.52
+32,Parkinson's Disease,0.50
+33,Epilepsy,0.42
+34,HIV/AIDS,0.38
+35,Pancreas Cancer,0.38
+36,Ovary Cancer,0.37
+37,Syphilis,0.36
+38,Peptic Ulcer Disease,0.33
+39,Maternal Conditions,0.31
+40,Violence,0.30
+41,Skin Disease,0.30
+42,Drownings,0.29
+43,Fires,0.29
+44,Drug Use,0.24
+45,Rheumatic Heart Disease,0.22
+46,Liver Cancer,0.22
+47,Oesophagus Cancer,0.21
+48,Malnutrition,0.20
+49,Meningitis,0.17

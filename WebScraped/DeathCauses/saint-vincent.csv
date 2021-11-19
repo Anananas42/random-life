@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,20.29
+1,Diabetes Mellitus,12.48
+2,Stroke,12.09
+3,Influenza and Pneumonia,5.85
+4,Prostate Cancer,5.20
+5,Hypertension,4.42
+6,Breast Cancer,2.21
+7,Lung Disease,2.21
+8,HIV/AIDS,2.21
+9,Endocrine Disorders,2.08
+10,Violence,1.95
+11,Kidney Disease,1.82
+12,Cervical Cancer,1.69
+13,Colon-Rectum Cancers,1.69
+14,Stomach Cancer,1.56
+15,Road Traffic Accidents,1.56
+16,Congenital Anomalies,1.17
+17,Lymphomas,1.04
+18,Lung Cancers,1.04
+19,Low Birth Weight,0.91
+20,Liver Cancer,0.91
+21,Falls,0.78
+22,Pancreas Cancer,0.78
+23,Skin Disease,0.78
+24,Liver Disease,0.78
+25,Inflammatory/Heart,0.65
+26,Oral Cancer,0.65
+27,Alzheimers & Dementia,0.65
+28,Other Injuries,0.65
+29,Drownings,0.65
+30,Peptic Ulcer Disease,0.65
+31,Alcohol,0.65
+32,Diarrhoeal diseases,0.52
+33,Malnutrition,0.52
+34,Encephalitis,0.52
+35,Uterin Cancer,0.52
+36,Leukemia,0.52
+37,Ovary Cancer,0.52
+38,Asthma,0.52
+39,Oesophagus Cancer,0.52
+40,Anemia,0.52
+41,Other Neoplasms,0.39
+42,Suicide,0.39
+43,Tuberculosis,0.26
+44,Birth Trauma,0.26
+45,Bladder Cancer,0.26
+46,Rheumatic Heart Disease,0.26
+47,Skin Cancers,0.26
+48,Drug Use,0.13
+49,Osteoarthritis,0.13

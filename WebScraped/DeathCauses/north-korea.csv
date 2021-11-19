@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Stroke,22.10
+1,Coronary Heart Disease,15.14
+2,Lung Disease,14.41
+3,Lung Cancers,6.47
+4,Tuberculosis,5.18
+5,Alzheimers & Dementia,2.95
+6,Liver Cancer,2.50
+7,Road Traffic Accidents,2.48
+8,Influenza and Pneumonia,2.27
+9,Colon-Rectum Cancers,2.03
+10,Hypertension,1.92
+11,Stomach Cancer,1.68
+12,Kidney Disease,1.64
+13,Liver Disease,1.52
+14,Diabetes Mellitus,1.51
+15,Suicide,1.35
+16,Breast Cancer,1.21
+17,Rheumatic Heart Disease,1.17
+18,Falls,0.80
+19,Pancreas Cancer,0.79
+20,Oesophagus Cancer,0.72
+21,Drownings,0.70
+22,Low Birth Weight,0.67
+23,Peptic Ulcer Disease,0.63
+24,Other Injuries,0.62
+25,Congenital Anomalies,0.61
+26,Cervical Cancer,0.54
+27,Violence,0.53
+28,Leukemia,0.43
+29,Birth Trauma,0.40
+30,Bladder Cancer,0.37
+31,Asthma,0.34
+32,Lymphomas,0.34
+33,Drug Use,0.30
+34,Ovary Cancer,0.29
+35,Inflammatory/Heart,0.29
+36,Diarrhoeal diseases,0.27
+37,Oral Cancer,0.25
+38,Poisonings,0.23
+39,Endocrine Disorders,0.22
+40,Parkinson's Disease,0.22
+41,Epilepsy,0.18
+42,Uterin Cancer,0.17
+43,Other Neoplasms,0.15
+44,Fires,0.14
+45,Malnutrition,0.14
+46,Alcohol,0.14
+47,Maternal Conditions,0.13
+48,Hepatitis B,0.12
+49,War,0.12

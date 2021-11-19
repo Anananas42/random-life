@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,23.29
+1,Alzheimers & Dementia,10.71
+2,Stroke,8.10
+3,Lung Disease,6.50
+4,Lung Cancers,5.79
+5,Diabetes Mellitus,5.36
+6,Kidney Disease,4.22
+7,Hypertension,2.96
+8,Stomach Cancer,2.27
+9,Prostate Cancer,2.03
+10,Colon-Rectum Cancers,2.02
+11,Influenza and Pneumonia,1.95
+12,Congenital Anomalies,1.66
+13,Road Traffic Accidents,1.61
+14,Lymphomas,1.54
+15,Liver Disease,1.52
+16,Suicide,1.43
+17,Breast Cancer,1.40
+18,Falls,1.28
+19,Bladder Cancer,1.28
+20,Endocrine Disorders,1.10
+21,Low Birth Weight,0.97
+22,Leukemia,0.91
+23,Pancreas Cancer,0.86
+24,Inflammatory/Heart,0.79
+25,Other Injuries,0.74
+26,Parkinson's Disease,0.69
+27,Oesophagus Cancer,0.64
+28,Liver Cancer,0.61
+29,Epilepsy,0.54
+30,Violence,0.52
+31,Asthma,0.51
+32,Ovary Cancer,0.45
+33,Oral Cancer,0.33
+34,Skin Cancers,0.30
+35,Drownings,0.29
+36,Uterin Cancer,0.25
+37,Drug Use,0.21
+38,Birth Trauma,0.21
+39,Peptic Ulcer Disease,0.18
+40,Cervical Cancer,0.17
+41,Diarrhoeal diseases,0.17
+42,Skin Disease,0.17
+43,Fires,0.17
+44,Malnutrition,0.16
+45,War,0.16
+46,Hepatitis B,0.13
+47,Meningitis,0.13
+48,Rheumatic Heart Disease,0.12
+49,Tuberculosis,0.12

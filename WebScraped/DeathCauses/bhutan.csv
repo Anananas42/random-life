@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,19.00
+1,Stroke,8.18
+2,Lung Disease,7.68
+3,Influenza and Pneumonia,5.35
+4,Diabetes Mellitus,4.92
+5,Liver Disease,4.16
+6,Kidney Disease,3.83
+7,Tuberculosis,3.71
+8,Road Traffic Accidents,2.88
+9,Falls,2.45
+10,Diarrhoeal diseases,2.31
+11,Low Birth Weight,2.31
+12,Stomach Cancer,2.21
+13,Suicide,2.16
+14,Other Injuries,1.97
+15,Alzheimers & Dementia,1.97
+16,Hypertension,1.88
+17,Asthma,1.71
+18,Congenital Anomalies,1.71
+19,HIV/AIDS,1.59
+20,Birth Trauma,1.45
+21,Rheumatic Heart Disease,1.26
+22,Oral Cancer,1.02
+23,Drownings,0.93
+24,Lung Cancers,0.90
+25,Oesophagus Cancer,0.83
+26,Epilepsy,0.78
+27,Liver Cancer,0.74
+28,Peptic Ulcer Disease,0.59
+29,Endocrine Disorders,0.57
+30,Hepatitis B,0.52
+31,Colon-Rectum Cancers,0.52
+32,Inflammatory/Heart,0.52
+33,Leukemia,0.52
+34,Maternal Conditions,0.50
+35,Meningitis,0.50
+36,Encephalitis,0.48
+37,Fires,0.48
+38,Cervical Cancer,0.45
+39,Alcohol,0.43
+40,Lymphomas,0.40
+41,Pancreas Cancer,0.33
+42,Violence,0.33
+43,Skin Disease,0.31
+44,Ovary Cancer,0.29
+45,Appendicitis,0.26
+46,Parkinson's Disease,0.24
+47,Drug Use,0.24
+48,Other Neoplasms,0.21
+49,Breast Cancer,0.19

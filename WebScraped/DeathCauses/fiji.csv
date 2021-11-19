@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Diabetes Mellitus,24.57
+1,Coronary Heart Disease,24.20
+2,Hypertension,6.50
+3,Kidney Disease,4.10
+4,Influenza and Pneumonia,3.87
+5,Stroke,2.73
+6,Asthma,2.59
+7,Lung Disease,2.42
+8,Endocrine Disorders,2.08
+9,Breast Cancer,1.81
+10,Congenital Anomalies,1.66
+11,Other Injuries,1.50
+12,Diarrhoeal diseases,1.47
+13,Cervical Cancer,1.35
+14,Drownings,1.23
+15,Low Birth Weight,1.13
+16,Inflammatory/Heart,1.11
+17,Road Traffic Accidents,1.01
+18,Liver Cancer,0.96
+19,Prostate Cancer,0.84
+20,Other Neoplasms,0.80
+21,Suicide,0.77
+22,Colon-Rectum Cancers,0.73
+23,Lung Cancers,0.70
+24,Tuberculosis,0.68
+25,Rheumatic Heart Disease,0.68
+26,Skin Disease,0.65
+27,Lymphomas,0.58
+28,Fires,0.58
+29,Anemia,0.53
+30,Leukemia,0.51
+31,Birth Trauma,0.43
+32,Violence,0.39
+33,Ovary Cancer,0.36
+34,Stomach Cancer,0.34
+35,Peptic Ulcer Disease,0.32
+36,Epilepsy,0.31
+37,Prostatic Hypertrophy,0.31
+38,Falls,0.29
+39,Uterin Cancer,0.27
+40,Encephalitis,0.27
+41,Oesophagus Cancer,0.26
+42,Oral Cancer,0.24
+43,Pancreas Cancer,0.24
+44,Malnutrition,0.20
+45,Meningitis,0.17
+46,Hepatitis B,0.17
+47,Bladder Cancer,0.14
+48,Parkinson's Disease,0.14
+49,Liver Disease,0.12

@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Influenza and Pneumonia,13.17
+1,Malaria,8.91
+2,Coronary Heart Disease,7.49
+3,Diarrhoeal diseases,7.03
+4,Stroke,6.09
+5,HIV/AIDS,5.48
+6,Birth Trauma,3.70
+7,Road Traffic Accidents,3.43
+8,Low Birth Weight,3.33
+9,Meningitis,3.19
+10,Tuberculosis,3.09
+11,Liver Disease,2.51
+12,Maternal Conditions,2.50
+13,Congenital Anomalies,2.23
+14,Malnutrition,2.00
+15,Diabetes Mellitus,1.98
+16,Endocrine Disorders,1.82
+17,Lung Disease,1.76
+18,Other Injuries,1.70
+19,Measles,1.41
+20,Liver Cancer,1.15
+21,Kidney Disease,1.15
+22,Violence,1.04
+23,Syphilis,0.92
+24,Falls,0.88
+25,Cervical Cancer,0.86
+26,Drownings,0.86
+27,Alzheimers & Dementia,0.85
+28,Asthma,0.82
+29,Prostate Cancer,0.73
+30,Suicide,0.73
+31,Hypertension,0.63
+32,Peptic Ulcer Disease,0.56
+33,Fires,0.54
+34,Schistosomiasis,0.42
+35,Rheumatic Heart Disease,0.38
+36,Epilepsy,0.36
+37,Inflammatory/Heart,0.35
+38,Poisonings,0.35
+39,Hepatitis B,0.33
+40,Breast Cancer,0.27
+41,Skin Disease,0.22
+42,Appendicitis,0.21
+43,Other Neoplasms,0.21
+44,Tetanus,0.18
+45,Stomach Cancer,0.18
+46,Lymphomas,0.18
+47,Drug Use,0.17
+48,Pertussis,0.16
+49,Trypanosomiasis,0.16

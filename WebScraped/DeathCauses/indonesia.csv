@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,18.73
+1,Stroke,14.83
+2,Tuberculosis,6.49
+3,Diabetes Mellitus,6.04
+4,Lung Disease,3.57
+5,Liver Disease,3.51
+6,Diarrhoeal diseases,3.34
+7,Alzheimers & Dementia,3.22
+8,Influenza and Pneumonia,2.94
+9,Road Traffic Accidents,2.46
+10,Kidney Disease,2.37
+11,Asthma,2.29
+12,HIV/AIDS,2.23
+13,Hypertension,2.07
+14,Lung Cancers,1.96
+15,Peptic Ulcer Disease,1.50
+16,Low Birth Weight,1.47
+17,Breast Cancer,1.27
+18,Colon-Rectum Cancers,1.22
+19,Liver Cancer,1.14
+20,Falls,1.09
+21,Malnutrition,1.02
+22,Congenital Anomalies,1.02
+23,Birth Trauma,1.00
+24,Other Injuries,0.97
+25,Inflammatory/Heart,0.83
+26,Lymphomas,0.78
+27,Oral Cancer,0.72
+28,Violence,0.70
+29,Prostate Cancer,0.61
+30,Cervical Cancer,0.59
+31,Maternal Conditions,0.55
+32,Rheumatic Heart Disease,0.54
+33,Suicide,0.53
+34,Leukemia,0.52
+35,Drownings,0.51
+36,Ovary Cancer,0.48
+37,Endocrine Disorders,0.43
+38,Pancreas Cancer,0.38
+39,Dengue,0.35
+40,Hepatitis B,0.34
+41,Stomach Cancer,0.33
+42,Measles,0.31
+43,Parkinson's Disease,0.25
+44,Bladder Cancer,0.24
+45,Meningitis,0.21
+46,Epilepsy,0.21
+47,Appendicitis,0.20
+48,Skin Disease,0.20
+49,Other Neoplasms,0.17

@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,11.20
+1,Influenza and Pneumonia,10.20
+2,Diabetes Mellitus,9.38
+3,Violence,6.04
+4,Stroke,5.40
+5,Kidney Disease,4.86
+6,Other Injuries,4.85
+7,Liver Disease,4.44
+8,Road Traffic Accidents,3.77
+9,Diarrhoeal diseases,2.91
+10,Low Birth Weight,2.67
+11,Lung Disease,2.56
+12,Malnutrition,2.54
+13,HIV/AIDS,2.41
+14,Congenital Anomalies,2.30
+15,Stomach Cancer,2.28
+16,Birth Trauma,2.22
+17,Liver Cancer,1.97
+18,Alcohol,1.70
+19,Hypertension,1.09
+20,Endocrine Disorders,1.04
+21,Prostate Cancer,1.02
+22,Peptic Ulcer Disease,0.97
+23,Cervical Cancer,0.74
+24,Leukemia,0.72
+25,Other Neoplasms,0.70
+26,Suicide,0.63
+27,Alzheimers & Dementia,0.55
+28,Lung Cancers,0.55
+29,Breast Cancer,0.51
+30,Maternal Conditions,0.49
+31,Colon-Rectum Cancers,0.48
+32,Tuberculosis,0.46
+33,Uterin Cancer,0.45
+34,Drownings,0.43
+35,Asthma,0.40
+36,Epilepsy,0.40
+37,Anemia,0.37
+38,Drug Use,0.36
+39,Pancreas Cancer,0.30
+40,Meningitis,0.30
+41,Lymphomas,0.30
+42,Encephalitis,0.29
+43,Poisonings,0.25
+44,Skin Cancers,0.25
+45,Inflammatory/Heart,0.24
+46,Oesophagus Cancer,0.19
+47,Oral Cancer,0.19
+48,Skin Disease,0.18
+49,Fires,0.17

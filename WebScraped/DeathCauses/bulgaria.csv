@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,38.97
+1,Stroke,22.85
+2,Lung Cancers,3.99
+3,Lung Disease,3.98
+4,Hypertension,3.23
+5,Colon-Rectum Cancers,3.09
+6,Kidney Disease,2.21
+7,Liver Disease,1.82
+8,Diabetes Mellitus,1.67
+9,Influenza and Pneumonia,1.64
+10,Breast Cancer,1.62
+11,Stomach Cancer,1.48
+12,Pancreas Cancer,1.24
+13,Prostate Cancer,1.18
+14,Suicide,0.86
+15,Liver Cancer,0.76
+16,Bladder Cancer,0.73
+17,Lymphomas,0.57
+18,Road Traffic Accidents,0.56
+19,Leukemia,0.54
+20,Oral Cancer,0.51
+21,Inflammatory/Heart,0.50
+22,Cervical Cancer,0.50
+23,Ovary Cancer,0.48
+24,Other Injuries,0.46
+25,Parkinson's Disease,0.40
+26,Falls,0.39
+27,Uterin Cancer,0.39
+28,Skin Cancers,0.39
+29,Peptic Ulcer Disease,0.33
+30,Alzheimers & Dementia,0.25
+31,Oesophagus Cancer,0.23
+32,Congenital Anomalies,0.20
+33,Endocrine Disorders,0.17
+34,Other Neoplasms,0.16
+35,Encephalitis,0.16
+36,Low Birth Weight,0.15
+37,Drownings,0.15
+38,Tuberculosis,0.13
+39,Violence,0.13
+40,Fires,0.11
+41,Epilepsy,0.11
+42,Alcohol,0.09
+43,Drug Use,0.08
+44,Multiple Sclerosis,0.07
+45,Rheumatic Heart Disease,0.07
+46,Birth Trauma,0.05
+47,Skin Disease,0.05
+48,Poisonings,0.05
+49,Asthma,0.04

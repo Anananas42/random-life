@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,18.25
+1,Lung Disease,9.30
+2,Stroke,8.01
+3,Influenza and Pneumonia,6.99
+4,Tuberculosis,4.78
+5,Diarrhoeal diseases,4.65
+6,Diabetes Mellitus,3.51
+7,Low Birth Weight,3.43
+8,Road Traffic Accidents,3.39
+9,Kidney Disease,3.02
+10,Liver Disease,3.00
+11,Suicide,2.45
+12,Falls,2.34
+13,Asthma,1.85
+14,Other Injuries,1.67
+15,Alzheimers & Dementia,1.60
+16,Birth Trauma,1.43
+17,Hypertension,1.30
+18,Congenital Anomalies,1.19
+19,Oral Cancer,1.15
+20,Rheumatic Heart Disease,1.10
+21,Lung Cancers,1.01
+22,Breast Cancer,0.92
+23,Cervical Cancer,0.82
+24,Drownings,0.73
+25,Stomach Cancer,0.71
+26,HIV/AIDS,0.70
+27,Colon-Rectum Cancers,0.64
+28,Peptic Ulcer Disease,0.63
+29,Violence,0.62
+30,Hepatitis B,0.60
+31,Fires,0.51
+32,Oesophagus Cancer,0.50
+33,Maternal Conditions,0.46
+34,Meningitis,0.39
+35,Encephalitis,0.38
+36,Poisonings,0.36
+37,Liver Cancer,0.35
+38,Epilepsy,0.35
+39,Lymphomas,0.34
+40,Malnutrition,0.34
+41,Leukemia,0.32
+42,Measles,0.32
+43,Rheumatoid Arthritis,0.30
+44,Dengue,0.28
+45,Malaria,0.27
+46,Ovary Cancer,0.26
+47,Appendicitis,0.24
+48,Endocrine Disorders,0.24
+49,Inflammatory/Heart,0.23

@@ -1,0 +1,51 @@
+,DeathCause,Percentage
+0,Coronary Heart Disease,12.43
+1,Diabetes Mellitus,8.88
+2,Stroke,7.41
+3,Influenza and Pneumonia,7.32
+4,Road Traffic Accidents,5.39
+5,Lung Disease,4.35
+6,Hypertension,4.17
+7,Kidney Disease,3.94
+8,Liver Disease,3.62
+9,Stomach Cancer,3.18
+10,Other Injuries,3.06
+11,Congenital Anomalies,2.62
+12,Low Birth Weight,2.39
+13,Violence,2.08
+14,Prostate Cancer,1.72
+15,HIV/AIDS,1.71
+16,Suicide,1.59
+17,Cervical Cancer,1.40
+18,Colon-Rectum Cancers,1.37
+19,Lung Cancers,1.33
+20,Leukemia,1.29
+21,Liver Cancer,1.26
+22,Other Neoplasms,1.22
+23,Endocrine Disorders,1.20
+24,Lymphomas,1.13
+25,Breast Cancer,1.11
+26,Malnutrition,0.94
+27,Alzheimers & Dementia,0.91
+28,Tuberculosis,0.86
+29,Falls,0.85
+30,Pancreas Cancer,0.66
+31,Drownings,0.66
+32,Birth Trauma,0.62
+33,Alcohol,0.60
+34,Inflammatory/Heart,0.45
+35,Anemia,0.44
+36,Peptic Ulcer Disease,0.41
+37,Skin Cancers,0.39
+38,Ovary Cancer,0.38
+39,Epilepsy,0.37
+40,Encephalitis,0.36
+41,Parkinson's Disease,0.35
+42,Diarrhoeal diseases,0.32
+43,Drug Use,0.29
+44,Maternal Conditions,0.29
+45,Skin Disease,0.27
+46,Oral Cancer,0.22
+47,Oesophagus Cancer,0.22
+48,Bladder Cancer,0.21
+49,Rheumatic Heart Disease,0.20
