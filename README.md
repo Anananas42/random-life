@@ -9,3 +9,10 @@ This is an interactive way to explore how the world looks today using stories. I
 and how will we probably die.
 
 Hopefully this will be both fun and educational.
+
+TBD:
+1) Country of birth ✔️
+2) Death cause ✔️
+3) Achieved education ❌
+4) Average income (PPP Adjusted) ❌
+5) Religion ❌
