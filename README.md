@@ -17,4 +17,4 @@ TBD:
 4) Average income (PPP Adjusted) ❌
 5) Religion ❌
 
-* It is assumed that variables 2-5 are independent, which is unrealistic, but the project still achieves the goal of interactively exploring data about different countries.
+\* It is assumed that variables 2-5 are independent, which is unrealistic, but the project still achieves the goal of interactively exploring data about different countries.
