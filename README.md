@@ -1,6 +1,6 @@
 # random-life
 
-Fun project to train some data science and web scraping.
+Fun project to improve my data science and web scraping skills.
 
 Imagine if you were born now and the world stayed the same.
 What would your life look like? Where would you be born? What education level would you achieve? How would you die?*
@@ -17,4 +17,4 @@ TBD:
 4) Average income (PPP Adjusted) ❌
 5) Religion ❌
 
-\* It is assumed that variables 2-5 are independent, which is unrealistic, but the project still achieves the goal of interactively exploring data about different countries.
+\* It is assumed that variables 2-5 are independent, which is unrealistic, but good enough for our purpose.
